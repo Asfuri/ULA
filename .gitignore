@@ -41,8 +41,8 @@
 !/*.gitignore
 ##
 !*.qpf
-!*.qsf
-!*.qws
+*.qsf
+*.qws
 !*.bdf
 !*.vhd
 !*.v
@@ -106,6 +106,7 @@ $RECYCLE.BIN/
 
 *_generation_script*
 *_inst.vhd
+*.bak
 *.cmp
 *.done
 *.eqn
@@ -118,7 +119,6 @@ $RECYCLE.BIN/
 *.ptf.*
 *.qar
 *.qarlog
-*.qws
 *.rpt
 *.smsg
 *.sof
